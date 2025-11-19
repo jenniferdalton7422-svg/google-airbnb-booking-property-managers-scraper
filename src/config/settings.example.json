@@ -1,0 +1,6 @@
+{
+ "proxy_enabled": false,
+ "proxy_pool": [],
+ "request_delay_ms": 800,
+ "max_retries": 3
+}
